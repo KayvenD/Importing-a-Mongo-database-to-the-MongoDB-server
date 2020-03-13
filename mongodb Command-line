@@ -1,0 +1,6 @@
+
+## for importing mongodb database
+
+mongorestore -d kay's_database C:\Users\unkwn\Desktop\convert
+
+
